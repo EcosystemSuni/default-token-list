@@ -1,4 +1,4 @@
-# @sushiswap/default-token-list
+# SUNI Default list token
 
 [![Tests](https://github.com/sushiswap/token-lists/workflows/Tests/badge.svg)](https://github.com/sushiswap/default-token-list/actions?query=workflow%3ATests)
 [![npm](https://img.shields.io/npm/v/@sushiswap/default-token-list)](https://unpkg.com/@sushiswap/default-token-list@latest/)
